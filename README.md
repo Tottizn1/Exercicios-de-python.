@@ -8,4 +8,4 @@ Exercícios e projetos em Python desenvolvidos por mim durante minha jornada de 
 - Funções
 
 ## Objetivo
-Praticar programação e registrar minha evolução como desenvolvedor.
+Praticar e desenvolver habilidades de programação e registrar minha evolução e avanços como desenvolvedor.
